@@ -1,0 +1,36 @@
+ul{	
+  border-bottom: 5px solid black;
+	height: 40px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li{
+  background-color: black;
+	float: left;
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+h2{
+	color: white;
+}
+body{
+	background-image: url("timg2.jpg");
+	border-image-repeat: no-repeat;
+	background-size: 100%;
+}
+.choose{
+  color: white;
+  display: block;
+  height: 30px;
+  width: 100px;
+  text-decoration: none;
+}
+#PIE{
+	background-color: none;
+	color: white;
+}
+a:hover{
+	background-color: yellow;
+}
